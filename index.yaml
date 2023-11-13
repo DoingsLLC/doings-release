@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  doings-helmapp:
+  - apiVersion: v2
+    appVersion: 1.16.5
+    created: "2023-11-13T16:41:59.098766809Z"
+    description: A Helm chart for Kubernetes
+    digest: bf089ceb60618c81e41f1c3ea04700fbbef75e0118881620e9b5378e41aa7b11
+    name: doings-helmapp
+    type: application
+    urls:
+    - doings-helmapp-0.1.4.tgz
+    version: 0.1.4
+generated: "2023-11-13T16:41:59.098420146Z"
